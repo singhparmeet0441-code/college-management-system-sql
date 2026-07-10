@@ -17,12 +17,15 @@ The project contains five tables:
 - Marks
 
 ## Table Relationships
-
 - The Teacher table is connected to the Course table using course_id.
 - The Enrollment table connects students with their respective courses.
 - The Marks table stores the marks obtained by students in their courses.
 - Primary keys uniquely identify records in each table.
 - Foreign keys maintain relationships between tables.
+
+ ## ER Diagram
+
+![College Management System ER Diagram](college_management_er_diagram.png)
 
 ## SQL Concepts Used
 
